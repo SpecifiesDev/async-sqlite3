@@ -1,0 +1,24 @@
+{
+  "name": "async-sqlite3",
+  "version": "1.0.6",
+  "description": "Library to asynchronously handle sqlite3 requests.",
+  "main": "index.js",
+  "dependencies": {
+    "sqlite3": "^4.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpecifiesDev/async-sqlite3.git"
+  },
+  "keywords": [
+    "sqlite",
+    "async",
+    "sqlite"
+  ],
+  "author": "SpecifiesDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpecifiesDev/async-sqlite3/issues"
+  },
+  "homepage": "https://github.com/SpecifiesDev/async-sqlite3#readme"
+}
